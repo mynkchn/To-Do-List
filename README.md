@@ -41,9 +41,9 @@ This is a task management application built using Django. It allows users to cre
 4. **Log Out**: Click the logout icon to securely log out of the application.
 
 ## Screenshots
-![Signup Page](static/js/Screenshot_(24).png)
-![Login Page](static/js/Screenshot_(25).png)
-![Todo Page](static/js/Screenshot_(26).png)
+![Signup Page](static/js/signup.png)
+![Login Page](static/js/login.png)
+![Todo Page](static/js/todo.png)
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
